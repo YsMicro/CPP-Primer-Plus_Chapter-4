@@ -130,6 +130,7 @@
     <ClInclude Include="head.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="04.01_arrayone.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
