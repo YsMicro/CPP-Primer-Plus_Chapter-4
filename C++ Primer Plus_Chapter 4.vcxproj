@@ -134,6 +134,10 @@
     <ClCompile Include="04.02_string.cpp" />
     <ClCompile Include="04.03_instr1.cpp" />
     <ClCompile Include="04.04_instr2.cpp" />
+    <ClCompile Include="04.05_instr3.cpp" />
+    <ClCompile Include="04.06_numstr.cpp" />
+    <ClCompile Include="04.07_strtype1.cpp" />
+    <ClCompile Include="04.08_strtype2.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

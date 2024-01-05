@@ -35,5 +35,17 @@
     <ClCompile Include="04.04_instr2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.05_instr3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.06_numstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.07_strtype1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.08_strtype2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

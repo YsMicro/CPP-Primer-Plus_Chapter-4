@@ -6,3 +6,7 @@ using namespace std;
 //int strings();
 //int instr1();
 //int instr2();
+//int instr3();
+//int numstr();
+//int strtype1();
+int strtype2();

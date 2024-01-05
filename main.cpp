@@ -7,4 +7,8 @@ int main()
     //strings();
     //instr1();
     //instr2();
+    //instr3();
+    //numstr();
+    //strtype1();
+    strtype2();
 }
