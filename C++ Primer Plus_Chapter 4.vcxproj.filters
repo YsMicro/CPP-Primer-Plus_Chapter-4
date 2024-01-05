@@ -26,5 +26,14 @@
     <ClCompile Include="04.01_arrayone.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.02_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.03_instr1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.04_instr2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

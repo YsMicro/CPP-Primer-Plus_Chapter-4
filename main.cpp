@@ -1,6 +1,10 @@
 #include "head.h"
 
+
 int main()
 {
-    arrayone();
+    //arrayone();
+    //strings();
+    //instr1();
+    //instr2();
 }

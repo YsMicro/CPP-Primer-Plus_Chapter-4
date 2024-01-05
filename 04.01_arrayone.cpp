@@ -3,7 +3,7 @@
 
 int arrayone()
 {
-    int yams[3];//创建三个元素的数组
+    int yams[3] = {0};//创建三个元素的数组
     yams[0] = 7;//给第一个元素分配值
     yams[1] = 8;
     yams[2] = 6;
@@ -17,7 +17,7 @@ int arrayone()
     int total = yams[0] * yamcosts[0] + yams[1] * yamcosts[1];
     total = total + yams[2] * yamcosts[2];
     cout << "The total yam expense is " << total << " cents.\n";
-    cout << "\nSize of yams array = " << sizeof yams;
+    cout << "\nSize of yams array = " << sizeof yams ;
     cout << " Bytes.\n";
     cout << "Size of one element = " << sizeof yams[0];
     cout << " Bytes.\n";
