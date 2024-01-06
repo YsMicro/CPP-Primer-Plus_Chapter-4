@@ -9,4 +9,5 @@ using namespace std;
 //int instr3();
 //int numstr();
 //int strtype1();
-int strtype2();
+//int strtype2();
+int strtype3();
