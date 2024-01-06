@@ -11,5 +11,6 @@ int main()
     //numstr();
     //strtype1();
     //strtype2();
-    strtype3();
+    //strtype3();
+    strtype4();
 }
