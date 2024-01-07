@@ -12,5 +12,6 @@ int main()
     //strtype1();
     //strtype2();
     //strtype3();
-    strtype4();
+    //strtype4();
+    structur();
 }

@@ -11,4 +11,5 @@ using namespace std;
 //int strtype1();
 //int strtype2();
 //int strtype3();
-int strtype4();
+//int strtype4();
+int structur();

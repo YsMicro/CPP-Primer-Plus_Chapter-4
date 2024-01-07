@@ -140,6 +140,7 @@
     <ClCompile Include="04.08_strtype2.cpp" />
     <ClCompile Include="04.09_strtype3.cpp" />
     <ClCompile Include="04.10_strtype4.cpp" />
+    <ClCompile Include="04.11_structur.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

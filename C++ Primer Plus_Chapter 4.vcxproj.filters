@@ -50,5 +50,11 @@
     <ClCompile Include="04.09_strtype3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.10_strtype4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.11_structur.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
