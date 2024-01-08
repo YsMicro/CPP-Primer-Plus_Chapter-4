@@ -12,4 +12,7 @@ using namespace std;
 //int strtype2();
 //int strtype3();
 //int strtype4();
-int structur();
+//int structur();
+//int assgn_st();
+//int arrstruc();
+int address();

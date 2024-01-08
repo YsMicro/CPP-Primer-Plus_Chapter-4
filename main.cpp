@@ -13,5 +13,8 @@ int main()
     //strtype2();
     //strtype3();
     //strtype4();
-    structur();
+    //structur();
+    //assgn_st();
+    //arrstruc();
+    address();
 }
