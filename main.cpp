@@ -16,5 +16,6 @@ int main()
     //structur();
     //assgn_st();
     //arrstruc();
-    address();
+    //address();
+    pointer();
 }

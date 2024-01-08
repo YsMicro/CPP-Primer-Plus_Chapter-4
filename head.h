@@ -15,4 +15,5 @@ using namespace std;
 //int structur();
 //int assgn_st();
 //int arrstruc();
-int address();
+//int address();
+int pointer();

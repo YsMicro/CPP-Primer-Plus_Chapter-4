@@ -65,5 +65,8 @@
     <ClCompile Include="04.14_address.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.15_pointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -144,6 +144,7 @@
     <ClCompile Include="04.12_assgn_st.cpp" />
     <ClCompile Include="04.13_arrstruc.cpp" />
     <ClCompile Include="04.14_address.cpp" />
+    <ClCompile Include="04.15_pointer.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
