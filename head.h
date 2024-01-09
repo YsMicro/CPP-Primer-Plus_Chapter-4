@@ -16,4 +16,6 @@ using namespace std;
 //int assgn_st();
 //int arrstruc();
 //int address();
-int pointer();
+//int pointer();
+//int init_ptr();
+int use_new();

@@ -17,5 +17,7 @@ int main()
     //assgn_st();
     //arrstruc();
     //address();
-    pointer();
+    //pointer();
+    //init_ptr();
+    use_new();
 }

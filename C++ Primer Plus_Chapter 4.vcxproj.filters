@@ -68,5 +68,11 @@
     <ClCompile Include="04.15_pointer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.16_init_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.17_use_new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
