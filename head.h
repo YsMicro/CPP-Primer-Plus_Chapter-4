@@ -18,4 +18,6 @@ using namespace std;
 //int address();
 //int pointer();
 //int init_ptr();
-int use_new();
+//int use_new();
+//int arraynew();
+int addpntrs();

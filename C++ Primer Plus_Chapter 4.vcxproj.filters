@@ -74,5 +74,11 @@
     <ClCompile Include="04.17_use_new.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.18_arraynew.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.19_addpntrs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

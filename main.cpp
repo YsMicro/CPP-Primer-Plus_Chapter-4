@@ -19,5 +19,8 @@ int main()
     //address();
     //pointer();
     //init_ptr();
-    use_new();
+    //use_new();
+    //return 0;
+    //arraynew();
+    addpntrs();
 }
