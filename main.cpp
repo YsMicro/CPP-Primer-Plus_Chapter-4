@@ -22,5 +22,7 @@ int main()
     //use_new();
     //return 0;
     //arraynew();
-    addpntrs();
+    //addpntrs();
+    cout << "Hello World!" << endl;
+    return 0;
 }
