@@ -23,6 +23,5 @@ int main()
     //return 0;
     //arraynew();
     //addpntrs();
-    cout << "Hello World!" << endl;
-    return 0;
+    
 }
