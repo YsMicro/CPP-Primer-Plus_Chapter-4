@@ -149,6 +149,9 @@
     <ClCompile Include="04.17_use_new.cpp" />
     <ClCompile Include="04.18_arraynew.cpp" />
     <ClCompile Include="04.19_addpntrs.cpp" />
+    <ClCompile Include="4.20_ptrstr.cpp" />
+    <ClCompile Include="4.21_newstrct.cpp" />
+    <ClCompile Include="4.22_dalete.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

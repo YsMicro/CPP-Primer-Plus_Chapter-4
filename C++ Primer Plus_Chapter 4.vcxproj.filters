@@ -80,5 +80,14 @@
     <ClCompile Include="04.19_addpntrs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.20_ptrstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.21_newstrct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.22_dalete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

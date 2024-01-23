@@ -20,4 +20,7 @@ using namespace std;
 //int init_ptr();
 //int use_new();
 //int arraynew();
-int addpntrs();
+//int addpntrs();
+//int ptrstr();
+//int struct_main();
+int delete_main();

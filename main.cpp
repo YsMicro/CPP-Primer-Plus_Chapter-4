@@ -1,6 +1,5 @@
 #include "head.h"
 
-
 int main()
 {
     //arrayone();
@@ -23,5 +22,7 @@ int main()
     //return 0;
     //arraynew();
     //addpntrs();
-    
+    //ptrstr();
+    //struct_main();
+    delete_main();
 }
