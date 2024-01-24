@@ -2,7 +2,7 @@
 
 int main()
 {
-    //arrayone();
+    arrayone();
     //strings();
     //instr1();
     //instr2();
@@ -24,5 +24,5 @@ int main()
     //addpntrs();
     //ptrstr();
     //struct_main();
-    delete_main();
+    //delete_main();
 }
