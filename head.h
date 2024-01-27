@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int arrayone();
+//int arrayone();
 //int strings();
 //int instr1();
 //int instr2();
@@ -23,4 +23,6 @@ int arrayone();
 //int addpntrs();
 //int ptrstr();
 //int struct_main();
-int delete_main();
+//int delete_main();
+//int mixtypes();
+int choices();

@@ -89,5 +89,11 @@
     <ClCompile Include="04.22_dalete.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04.23_mixtypes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.24_choices.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
