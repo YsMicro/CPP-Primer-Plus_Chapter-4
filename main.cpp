@@ -96,6 +96,8 @@ int main()
     //std::vector <std::string> vt(TEN);
     //std::array <std::string, TEN> ar;
 
-    main_practice1();
+    //practice_1();
+    //practice_2();
+    practice_3();
     return 0;
 }

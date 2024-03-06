@@ -1,6 +1,6 @@
 #include "head.h"
 
-int main_practice1()
+int practice_1()
 {
     char fName[40];
     char lName[40];

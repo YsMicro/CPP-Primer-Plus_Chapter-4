@@ -26,4 +26,6 @@ int struct_main();
 int delete_main();
 int mixtypes();
 int choices();
-int main_practice1();
+int practice_1();
+int practice_2();
+int practice_3();
