@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-//using namespace std;
+using namespace std;
 
 int arrayone();
 int strings();
@@ -26,3 +26,4 @@ int struct_main();
 int delete_main();
 int mixtypes();
 int choices();
+int main_practice1();
