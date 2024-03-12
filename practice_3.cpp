@@ -1,5 +1,5 @@
 #include "head.h"
-#include <cstring>
+//#include <cstring>
 int practice_3()
 {
     char first_name[20];
@@ -13,5 +13,6 @@ int practice_3()
     strcat_s(full_name, ", ");
     strcat_s(full_name, first_name);
     cout << "在单一字符串中显示信息" << full_name << endl;
+
     return 0;
 }

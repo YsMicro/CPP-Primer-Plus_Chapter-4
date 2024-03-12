@@ -157,8 +157,15 @@
     <ClCompile Include="04.24_choices.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="practice_1.cpp" />
+    <ClCompile Include="practice_10.cpp" />
     <ClCompile Include="practice_2.cpp" />
     <ClCompile Include="practice_3.cpp" />
+    <ClCompile Include="practice_4.cpp" />
+    <ClCompile Include="practice_5.cpp" />
+    <ClCompile Include="practice_6.cpp" />
+    <ClCompile Include="practice_7.cpp" />
+    <ClCompile Include="practice_8.cpp" />
+    <ClCompile Include="practice_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
